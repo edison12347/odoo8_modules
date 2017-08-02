@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    Simbioz
-#    Copyright (C) 2017-TODAY Simbioz(<http://www.baspar.eu>).
-#    Author: Ed Chu(<http://www.baspar.eu>)
+#    Cybrosys Technologies Pvt. Ltd.
+#    Copyright (C) 2017-TODAY Cybrosys Technologies(<http://www.cybrosys.com>).
+#    Author: Jesni Banu(<http://www.cybrosys.com>)
 #    you can modify it under the terms of the GNU LESSER
 #    GENERAL PUBLIC LICENSE (LGPL v3), Version 3.
 #
