@@ -1,2 +1,2 @@
 # odoo8_modules
-custom created modules for odoo 8
+TODO create a licence template for created modules
