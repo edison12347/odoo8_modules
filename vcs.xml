@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/edison12347/odoo8_modules.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/edison12347/odoo10_modules.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Work/odoo/odoo8" />
+    <option name="cloneParentDir" value="$USER_HOME$/Work/odoo/odoo10" />
   </component>
 </application>
