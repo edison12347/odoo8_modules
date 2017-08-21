@@ -18,8 +18,16 @@
           <option name="url" value="https://github.com/edison12347/odoo10_modules.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/simbioz_group/simbioz_test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="eduard.chudaikin@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Work/odoo/odoo10" />
+    <option name="cloneParentDir" value="$USER_HOME$/Work/odoo/odoo8" />
   </component>
 </application>
