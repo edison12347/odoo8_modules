@@ -15,6 +15,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping pattern="__openerp__" type="Python" />
+      <mapping pattern="editor_wizzard" type="Python" />
     </extensionMap>
   </component>
 </application>
